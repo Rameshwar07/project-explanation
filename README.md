@@ -1,4 +1,4 @@
-### 💼 Project Overview
+# 💼 Project Overview
 
 Client: Vyapar  
 Domain: Finance (Enterprise Resource Planning - ERP)  
