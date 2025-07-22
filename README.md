@@ -49,7 +49,7 @@ Combination of on-prem and AWS cloud.
  Used for storing reports, logs, backups, user uploads.  
 #### EKS: 
 All microservices run as Docker containers on Kubernetes clusters managed by EKS.  
-#### MongoDB: 
+#### MongoDB:
 Stores transactional and user data (used as a NoSQL database).  
 
 ## 🔀 Branching Strategy
