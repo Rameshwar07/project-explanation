@@ -43,11 +43,14 @@ Each microservice is containerized, versioned, and deployed independently using 
 
 ## ☁️ Infrastructure
 
-### Hybrid Cloud: 
+#### Hybrid Cloud: 
 Combination of on-prem and AWS cloud.  
-### S3 Buckets: Used for storing reports, logs, backups, user uploads.  
-### EKS: All microservices run as Docker containers on Kubernetes clusters managed by EKS.  
-### MongoDB: Stores transactional and user data (used as a NoSQL database).  
+#### S3 Buckets:
+ Used for storing reports, logs, backups, user uploads.  
+#### EKS: 
+All microservices run as Docker containers on Kubernetes clusters managed by EKS.  
+#### MongoDB: 
+Stores transactional and user data (used as a NoSQL database).  
 
 ## 🔀 Branching Strategy
 
